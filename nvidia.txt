@@ -1,2 +1,2 @@
-us.download.nvidia.com
-*.nvidia.com
+*.download.nvidia.com
+*.wpc.phicdn.net
