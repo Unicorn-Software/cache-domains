@@ -151,6 +151,11 @@
 			"name": "lesta",
 			"description": "CDN for lesta",
 			"domain_files": ["lesta.txt"]
-		}
+		},
+		{
+			"name": "nvidia",
+			"description": "CDN for Nvidia",
+			"domain_files": ["nvidia.txt"]
+		},
 	]
 }
