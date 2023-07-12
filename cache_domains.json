@@ -156,6 +156,6 @@
 			"name": "nvidia",
 			"description": "CDN for Nvidia",
 			"domain_files": ["nvidia.txt"]
-		},
+		}
 	]
 }
